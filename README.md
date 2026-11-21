@@ -1,4 +1,4 @@
-# Validador e Blindador de Segurança para Pipelines RAG
+# Validador e Blindador de Segurança para Pipelines RAG - TAVARDT Brasil
 
 > Auditoria de Isolamento de Contexto, Prevenção de Injeção Indireta e Blindagem Defensiva de IA
 
@@ -43,9 +43,9 @@ python rag_security_hardener.py --ingestion 3 --vector-db 3 --context-boundary 3
 
 ## Portais Oficiais
 
-- **Portal Oficial TAVARDT**: [https://tavardt.com.br](https://tavardt.com.br)
-- **Central de Ferramentas**: [https://tools.tavardt.com.br](https://tools.tavardt.com.br)
-- **Contato**: [https://tavardt.com.br/contato](https://tavardt.com.br/contato)
+- **Portal Oficial TAVARDT**: [https://ag.tavardt.com/br/](https://ag.tavardt.com/br/)
+- **Central de Ferramentas**: [https://tools.tavardt.com/br/](https://tools.tavardt.com/br/)
+- **Contato**: [https://ag.tavardt.com/br/contact/](https://ag.tavardt.com/br/contact/)
 
 ---
 &copy; 2026 TAVARDT Brasil. Todos os direitos reservados.

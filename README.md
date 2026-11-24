@@ -12,9 +12,6 @@ Desenvolvido e mantido pela divisão de engenharia de segurança em inteligênci
 
 ***
 
-
-***
-
 ## Demonstração Online e Hub de Arquitetura Defensiva
 
 Você pode acessar a especificação técnica corporativa, os testes de diagnóstico arquitetural e os blueprints de mitigação diretamente pelo navegador:
@@ -54,12 +51,11 @@ python3 rag_security_auditor.py -json
 
 ***
 
-## Governança e Soberania
+## Links Úteis
 
-* **Unidade Soberana**: [TAVARDT Brasil](https://ag.tavardt.com/br/) (`TAVARDT-Brasil`)
-* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
-* **Central de Diagnósticos**: [Central de Ferramentas TAVARDT](https://tools.tavardt.com/br/)
-* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+* **Portal Corporativo:** https://ag.tavardt.com/br/
+* **Suíte de Diagnósticos:** https://tools.tavardt.com/br/
+* **Contato Técnico:** https://ag.tavardt.com/br/contato/
 
 ***
 

@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OWASP LLM](https://img.shields.io/badge/OWASP-LLM%20Top%2010-red.svg)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 [![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS%20Matrix-orange.svg)](https://atlas.mitre.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Hub de Arquitetura Defensiva e Blueprints de Hardening para Pipelines RAG (Retrieval-Augmented Generation)**
 
@@ -50,6 +51,20 @@ python3 rag_security_auditor.py
 # 3. Exportar diagnóstico em formato estruturado JSON
 python3 rag_security_auditor.py -json
 ```
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: [TAVARDT Brasil](https://ag.tavardt.com/br/) (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: [Central de Ferramentas TAVARDT](https://tools.tavardt.com/br/)
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 

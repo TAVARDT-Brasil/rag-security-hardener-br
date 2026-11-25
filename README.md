@@ -8,7 +8,7 @@
 
 ***
 
-## Demonstração Online e Hub de Arquitetura Defensiva
+## Demonstração Online
 
 Você pode acessar a especificação técnica corporativa, os testes de diagnóstico arquitetural e os blueprints de mitigação diretamente pelo navegador:
 
